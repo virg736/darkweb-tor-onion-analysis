@@ -99,7 +99,9 @@ cd tor-browser
 ./start-tor-browser.desktop
 </pre>
 
-
+<p align="center">
+  <img src="Capture_ecran_téléchargement_navigateur_tor.PNG" width="700">
+</p>
 
 ----
 
