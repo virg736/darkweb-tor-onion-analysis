@@ -129,6 +129,8 @@ Le circuit Tor est composé généralement de :
 ---
 
 ##🌍 Accès aux services .onion   
+## 🌍 Accès aux services .onion
+## ⚠ Analyse de risque
 
 1️⃣ Connexion via Tor Browser   
 	•	Connexion au réseau Tor   
