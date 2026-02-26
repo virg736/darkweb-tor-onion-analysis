@@ -146,7 +146,7 @@ Le circuit Tor est composé généralement de :
 
 ⸻   
 
- ## Service analysé   
+ ##🟢Service analysé   
 
 Service d’e-mail temporaire accessible via Tor.   
 
@@ -234,9 +234,9 @@ Les adresses .onion ont été volontairement masquées dans les captures d’éc
 
 Ce choix repose sur une démarche éthique en cybersécurité visant à :   
 
-🟢 Ne pas diffuser d’adresses sensibles   
-🟢 Ne pas faciliter l’accès direct aux services analysés   
-🟢 Respecter une démarche responsable et professionnelle   
+- Ne pas diffuser d’adresses sensibles   
+- Ne pas faciliter l’accès direct aux services analysés   
+- Respecter une démarche responsable et professionnelle   
 
 ⸻
 
@@ -244,10 +244,10 @@ Ce choix repose sur une démarche éthique en cybersécurité visant à :
 
 Ce projet pourrait être approfondi par :   
 
-Une analyse plus détaillée du trafic réseau  
-Une étude comparative de plusieurs services .onion   
-Une inspection approfondie des certificats et mécanismes de sécurité  
-Une analyse des configurations avancées du navigateur Tor  
+- Une analyse plus détaillée du trafic réseau  
+- Une étude comparative de plusieurs services .onion   
+- Une inspection approfondie des certificats et mécanismes de sécurité  
+- Une analyse des configurations avancées du navigateur Tor  
 
 
 ⸻   
