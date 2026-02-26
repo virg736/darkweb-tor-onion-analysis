@@ -1,6 +1,3 @@
-# darkweb-tor-onion-analysis-
-Analyse académique en cybersécurité d'un service .onion accessible via Tor dans un environnement virtualisé isolé.
-#
 # 🌐 Dark Web – Analyse académique d’un service .onion via Tor
 
 ## 📌 Description du projet
@@ -19,7 +16,7 @@ Aucun téléchargement n’a été effectué.
 
 ---
 
-## 🎯 Objectifs pédagogiques
+## Objectifs pédagogiques
 
 - Comprendre le fonctionnement du réseau Tor
 - Mettre en place un environnement d’analyse sécurisé
@@ -29,15 +26,15 @@ Aucun téléchargement n’a été effectué.
 
 ---
 
-## 🛡️ Sécurisation de l’environnement
+## Sécurisation de l’environnement
 
-### 🖥️ Machine hôte
+### Machine hôte
 
 - Windows sans données sensibles
 - VPN Proton activé avant connexion Tor
 - Aucune activité parallèle durant l’analyse
 
-### 💻 Machine virtuelle (VirtualBox – Debian)
+### Machine virtuelle (VirtualBox – Debian)
 
 - Mode réseau : NAT (pas de Bridge)
 - Aucun dossier partagé entre hôte et VM
@@ -55,7 +52,6 @@ Cette configuration limite les risques en cas de contenu malveillant.
 
 ### Méthode manuelle
 
-```bash
 wget https://www.torproject.org/dist/torbrowser/linux/tor-browser-linux64-*.tar.xz
 tar -xf tor-browser-linux64-*.tar.xz
 cd tor-browser
