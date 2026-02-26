@@ -80,7 +80,7 @@ s’effectue sur le réseau Tor, C'est-à-dire sur le Dark Web.
 - Aucun dossier partagé entre hôte et VM
 - Presse-papiers bidirectionnel désactivé
 - Glisser-déposer désactivé
-- Aucun périphérique USB mont
+- Aucun périphérique USB monté
 - Snapshot réalisé avant la navigation
 - Absence de données personnelles dans la VM
 
