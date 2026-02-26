@@ -8,7 +8,7 @@ Ce projet présente une analyse académique d’un service accessible via le ré
 L’objectif n’était pas d’interagir avec le service, mais de :
 
 - Comprendre le fonctionnement de l’accès aux services .onion
-- Appliquer une méthodologie cybersécurité rigoureuse
+- Appliquer une méthodologie de cybersécurité rigoureuse
 - Documenter chaque étape de manière structurée
 - Analyser les risques associés à la navigation sur le Dark Web
 
@@ -19,22 +19,22 @@ Aucun téléchargement n’a été effectué.
 
 ## Objectifs pédagogiques
 
-- Comprendre le fonctionnement du réseau Tor
-- Mettre en place un environnement d’analyse sécurisé
-- Étudier le comportement d’un service .onion
-- Identifier les risques techniques associés
-- Documenter une démarche d’investigation responsable
+- Comprendre le fonctionnement du réseau Tor  
+- Mettre en place un environnement d’analyse sécurisé  
+- Étudier le comportement d’un service .onion  
+- Identifier les risques techniques associés  
+- Documenter une démarche d’investigation responsable  
 
 ---
 
 ## Clarification : Dark Web et légalité
 
-Le dark web ne désigne pas une activité illégale en soi.
+Le Dark Web ne désigne pas une activité illégale en soi.
 
 Il s'agit d'un ensemble de services accessibles uniquement via des réseaux anonymisants
 comme Tor, utilisant des adresses en .onion.
 
-Le dark web peut contenir :
+Le Dark Web peut contenir :
 
 - Des services légitimes (journalisme, lanceurs d’alerte, protection de la vie privée)
 - Des outils de sécurité et d’anonymisation
@@ -51,7 +51,7 @@ mais de l’usage qui en est fait.
 
 ## Accès au Dark Web
 
-L’accès au dark web nécessite l’utilisation d’un réseau anonymisant,
+L’accès au Dark Web nécessite l’utilisation d’un réseau anonymisant,
 comme le réseau Tor.
 
 Les services hébergés sur le réseau Tor utilisent des adresses spécifiques
@@ -62,9 +62,9 @@ Ces adresses ne sont pas accessibles depuis un navigateur classique
 du navigateur Tor pour être consultées.
 
 Ainsi, l’accès aux services en .onion confirme que la navigation
-s’effectue sur le réseau Tor (dark web).
+s’effectue sur le réseau Tor, C'est-à-dire sur le Dark Web.
 
-----
+---- 
 
 ## Sécurisation de l’environnement
 
