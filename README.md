@@ -248,7 +248,7 @@ L’accès à un lien `.onion` inconnu peut présenter plusieurs risques :
 - Téléchargement potentiel de fichiers infectés
 - Exposition à des contenus illicites
 
-Il est donc recommandé :
+## ⚠️ Recommandations de sécurité
 
 - D’utiliser un environnement isolé (machine virtuelle)
 - De ne pas interagir avec des formulaires sensibles
