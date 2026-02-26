@@ -254,10 +254,11 @@ Il est donc recommandé :
 - De ne pas interagir avec des formulaires sensibles
 - De ne télécharger aucun fichier
 - De ne divulguer aucune donnée personnelle
+  
 
 Cette analyse a été réalisée dans un cadre académique et observationnel uniquement.
+Il ne s’agit pas d’une action intrusive, mais d’une consultation passive dans un cadre académique.  
 
-Il ne s’agit pas d’une action intrusive, mais d’une consultation passive dans un cadre académique.    
 
 <p align="center">
   <img src="capture_ecran_exemple_lien_onion_darkweb.png" width="800">
@@ -288,9 +289,9 @@ Ce choix repose sur une démarche éthique en cybersécurité visant à :
 - Respecter une démarche responsable et professionnelle
      
 🔎 Note complémentaire :
-
 Les services .onion analysés ne sont pas indexés par les moteurs de recherche traditionnels et nécessitent la connaissance explicite de l’adresse pour y accéder. 
 Ils circulent généralement via des répertoires spécialisés, des forums privés ou des partages restreints.
+
 ---
 
 📈 Axes d’amélioration futurs   
