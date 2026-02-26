@@ -321,5 +321,9 @@ Ce projet démontre :
 
 Projet réalisé à des fins pédagogiques uniquement.  
 Aucune activité illégale n’a été effectuée.   
+## ⚖ Disclaimer
 
+Ce projet est réalisé à des fins éducatives et d’analyse en cybersécurité uniquement.
+Il ne constitue en aucun cas une incitation à l’utilisation de services illicites.
+L’auteure décline toute responsabilité en cas d’usage inapproprié des informations présentées.
 
