@@ -317,10 +317,6 @@ Ce projet démontre :
 
 ---
 
-⚖️ Disclaimer  
-
-Projet réalisé à des fins pédagogiques uniquement.  
-Aucune activité illégale n’a été effectuée.   
 ## ⚖ Disclaimer
 
 Ce projet est réalisé à des fins éducatives et d’analyse en cybersécurité uniquement.
