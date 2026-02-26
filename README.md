@@ -92,6 +92,11 @@ Cette configuration limite les risques en cas de contenu malveillant.
 
 ### Méthode manuelle
 
+<p align="center">
+  <img src="Capture_ecran-configuration-tor.PNG" width="700">
+</p>
+
+
 <pre>
 wget https://www.torproject.org/dist/torbrowser/linux/tor-browser-linux64-*.tar.xz
 tar -xf tor-browser-linux64-*.tar.xz
