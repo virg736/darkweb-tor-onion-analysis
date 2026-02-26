@@ -212,6 +212,11 @@ Cette analyse a été réalisée dans un cadre académique et observationnel uni
 
 Il ne s’agit pas d’une action intrusive, mais d’une consultation passive dans un cadre académique.    
 
+<p align="center">
+  <img src="Capture_ecran_exemple_lien_onion_darkweb.PNG" width="800">
+</p>
+
+
 ⸻   
 
 
