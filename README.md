@@ -44,7 +44,7 @@ Le Dark Web peut contenir :
 Cependant, comme tout espace numérique anonyme, il peut également
 être utilisé à des fins illégales.
 
-Ainsi, l’illégalité ne provient pas du réseau Tor ou du dark web en lui-même,
+Ainsi, l’illégalité ne provient pas du réseau Tor ou du Dark Web en lui-même,
 mais de l’usage qui en est fait.
 
 ---
@@ -71,7 +71,7 @@ s’effectue sur le réseau Tor, C'est-à-dire sur le Dark Web.
 ### Machine hôte
 
 - Windows sans données sensibles
-- VPN Proton activé avant connexion Tor
+- VPN Proton activé avant connexion à Tor
 - Aucune activité parallèle durant l’analyse
 
 ### Machine virtuelle (VirtualBox – Debian)
@@ -80,8 +80,8 @@ s’effectue sur le réseau Tor, C'est-à-dire sur le Dark Web.
 - Aucun dossier partagé entre hôte et VM
 - Presse-papiers bidirectionnel désactivé
 - Glisser-déposer désactivé
-- Aucun périphérique USB monté
-- Snapshot réalisé avant navigation
+- Aucun périphérique USB mont
+- Snapshot réalisé avant la navigation
 - Absence de données personnelles dans la VM
 
 Cette configuration limite les risques en cas de contenu malveillant.
