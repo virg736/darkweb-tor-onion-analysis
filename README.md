@@ -287,7 +287,10 @@ Ce choix repose sur une démarche éthique en cybersécurité visant à :
 - Ne pas faciliter l’accès direct aux services analysés   
 - Respecter une démarche responsable et professionnelle
      
+🔎 Note complémentaire :
 
+Les services .onion analysés ne sont pas indexés par les moteurs de recherche traditionnels et nécessitent la connaissance explicite de l’adresse pour y accéder. 
+Ils circulent généralement via des répertoires spécialisés, des forums privés ou des partages restreints.
 ---
 
 📈 Axes d’amélioration futurs   
