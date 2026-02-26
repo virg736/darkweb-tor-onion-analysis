@@ -133,6 +133,10 @@ Le circuit Tor est composé généralement de :
 </p>
 
 
+<p align="center">
+  <img src="capture_ecran_circuit_tor.png" width="700">
+</p>
+
 🌍 Accès aux services .onion   
 
 1️⃣ Connexion via Tor Browser   
