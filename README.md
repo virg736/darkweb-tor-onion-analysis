@@ -17,7 +17,7 @@
 
 ## 📌 Description du projet
 
-Ce projet présente une analyse académique d’un service accessible via le réseau Tor (.onion), réalisée dans un environnement virtualisé et isolé.
+Ce projet présente une analyse de sécurité d’un service accessible via le réseau Tor (.onion), réalisée dans un environnement virtualisé et isolé.
 
 L’objectif n’était pas d’interagir avec le service, mais de :
 
