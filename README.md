@@ -5,6 +5,12 @@
   <img src="project_dark_web.jpg" alt="Dark Web Cover" width="700">
 </p>
 
+<p align="center">
+  © 2026 Virginie Lechene – Tous droits réservés<br>
+  Reproduction interdite sans autorisation préalable.<br>
+  Usage pédagogique uniquement.
+</p>
+
 <p align="right">
   © 2026 Virginie Lechene – Tous droits réservés<br>
   Reproduction interdite sans autorisation préalable.<br>
