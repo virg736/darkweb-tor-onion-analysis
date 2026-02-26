@@ -276,9 +276,12 @@ Ce projet démontre :
 	•	Analyse de risque structurée    
 	•	Démarche éthique et responsable  
 	
+---
 
-⸻ 
+✍️ Auteur : *Virginie Lechene*
 
+
+---
 
 ⚖️ Disclaimer  
 
