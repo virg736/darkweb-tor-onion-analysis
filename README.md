@@ -180,7 +180,7 @@ Risques identifiés :
 
 Décision : arrêt volontaire avant toute interaction ou saisie de données.
 
-⸻  
+---
 
 ### Exemple d’accès à un lien .onion
 
