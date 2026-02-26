@@ -146,6 +146,9 @@ Le circuit Tor est composé généralement de :
 	•	Consultation d’articles référençant des services .onion   
 	•	Ouverture directe d’un service identifié   
 
+![DuckDuckGo Tor](Capture_ecran_tor_duckduckgo_accueil.PNG)
+
+
 ⸻   
 
  Service analysé   
