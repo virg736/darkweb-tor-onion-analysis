@@ -128,9 +128,7 @@ Le circuit Tor est composé généralement de :
 
 ---
 
-##🌍 Accès aux services .onion   
 ## 🌍 Accès aux services .onion
-## ⚠ Analyse de risque
 
 1️⃣ Connexion via Tor Browser   
 	•	Connexion au réseau Tor   
@@ -171,7 +169,8 @@ Aucune interaction sensible n’a été réalisée.
   <img src="Capture_analyse_formulaire_incription_darkweb_tor.PNG" width="800">
 </p>
 
-##⚠️ Analyse de risque   
+
+## ⚠ Analyse de risque
 
 Risques identifiés :   
 	•	Collecte potentielle de métadonnées    
