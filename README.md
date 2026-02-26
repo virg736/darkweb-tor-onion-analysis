@@ -206,6 +206,8 @@ Cette analyse a été réalisée dans un cadre académique et observationnel uni
 </p>
 
 
+![Exemple lien onion](./Capture_ecran_exemple_lien_onion_darkweb.PNG)
+
  Analyse technique   
 
 Le processus correspond à une navigation anonyme standard via Tor :   
