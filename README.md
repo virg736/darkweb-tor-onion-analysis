@@ -80,6 +80,7 @@ s’effectue sur le réseau Tor, C'est-à-dire sur le Dark Web.
 
 ---- 
 
+
 ## Sécurisation de l’environnement
 
 <h2 align="center">🔐 Architecture de sécurisation</h2>
@@ -110,6 +111,7 @@ s’effectue sur le réseau Tor, C'est-à-dire sur le Dark Web.
 <br>🟢 Aucun USB monté  
 <br>🟢 Snapshot avant navigation  
 <br>🟢 Aucune donnée personnelle  
+
 
 </td>
 
@@ -146,6 +148,7 @@ cd tor-browser
 ./start-tor-browser.desktop
 </pre>
 
+
 <p align="center">
   <img src="Capture_ecran_téléchargement_navigateur_tor.PNG" width="700">
 </p>
@@ -168,6 +171,7 @@ Le circuit Tor est composé généralement de :
   <img src="capture_ecran_circuit_tor.png" width="800">
 </p>
 
+
 ---
 
 ## 🌍 Accès aux services .onion
@@ -185,6 +189,7 @@ Le circuit Tor est composé généralement de :
 
 ![DuckDuckGo Tor](Capture_ecran_tor_duckduckgo_accueil.PNG)
 
+
 ----
 
  ## 🟢Service analysé   
@@ -198,7 +203,8 @@ Caractéristiques observées :
 	•	Conservation des messages limitée   
 	•	Fonctionnement basé sur l’anonymat   
 
-Aucune interaction sensible n’a été réalisée.   
+Aucune interaction sensible n’a été réalisée.
+
 
 <p align="center">
   <img src="Capture_service_email_temporaire_darkweb_tor.PNG" width="800">
@@ -209,6 +215,7 @@ Aucune interaction sensible n’a été réalisée.
 <p align="center">
   <img src="Capture_analyse_formulaire_incription_darkweb_tor.PNG" width="800">
 </p>
+
 
 
 ## ⚠ Analyse de risque
@@ -223,6 +230,7 @@ Risques identifiés :
 Décision : arrêt volontaire avant toute interaction ou saisie de données.
 
 ---
+
 
 ### Exemple d’accès à un lien .onion
 
@@ -256,7 +264,7 @@ Il ne s’agit pas d’une action intrusive, mais d’une consultation passive d
 </p>
 
 
-⸻
+---
 
 📸 Les captures documentent   
 
@@ -267,7 +275,7 @@ Il ne s’agit pas d’une action intrusive, mais d’une consultation passive d
 🟢 Interface du service analysé   
 🟢 Analyse du formulaire d’inscription   
 
-⸻  
+---  
 
 🔒 Note éthique  
 
@@ -277,9 +285,10 @@ Ce choix repose sur une démarche éthique en cybersécurité visant à :
 
 - Ne pas diffuser d’adresses sensibles   
 - Ne pas faciliter l’accès direct aux services analysés   
-- Respecter une démarche responsable et professionnelle   
+- Respecter une démarche responsable et professionnelle
+     
 
-⸻
+---
 
 📈 Axes d’amélioration futurs   
 
@@ -290,8 +299,7 @@ Ce projet pourrait être approfondi par :
 - Une inspection approfondie des certificats et mécanismes de sécurité  
 - Une analyse des configurations avancées du navigateur Tor  
 
-
-⸻   
+---  
 
 🎓 Objectifs pédagogiques
 
@@ -302,19 +310,6 @@ Ce projet démontre :
 - Analyse de risque structurée  
 - Démarche éthique et responsable
 
-
-
-🎓 Niveau estimé du projet     
-
-Niveau : Intermédiaire      
-(BTS SIO / Licence 2 / Début Bachelor Cybersécurité)      
-
-Ce projet démontre :     
-	•	Compréhension du réseau Tor     
-	•	Mise en place d’un environnement isolé    
-	•	Analyse de risque structurée    
-	•	Démarche éthique et responsable  
-	
 ---
 
 ✍️ Auteur : *Virginie Lechene*
