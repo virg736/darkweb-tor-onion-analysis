@@ -110,13 +110,6 @@ cd tor-browser
 
 ----
 
-Méthode alternative   
-
-sudo apt update  
-sudo apt install torbrowser-launcher   
-
----
-
 ## Fonctionnement du circuit Tor
 
 Lorsque l’utilisateur se connecte à un service .onion,
@@ -186,7 +179,6 @@ Risques identifiés :
 
 Décision : arrêt volontaire avant toute interaction ou saisie de données.
 
-
 ⸻  
 
 ### Exemple d’accès à un lien .onion
@@ -220,6 +212,7 @@ Il ne s’agit pas d’une action intrusive, mais d’une consultation passive d
   <img src="capture_ecran_exemple_lien_onion_darkweb.png" width="800">
 </p>
 
+
 ⸻   
 
 
@@ -235,42 +228,46 @@ Les captures documentent :
 
 🔒 Note éthique   
 
-Les adresses .onion ont été volontairement masquées dans les captures d’écran.   
+Les adresses .onion ont été volontairement masquées dans les captures d’écran.      
 
-Ce choix a été fait par éthique de cybersécurité afin de :   
-	•	Ne pas diffuser d’adresses sensibles   
-	•	Ne pas faciliter l’accès direct aux services analysés   
+Ce choix a été fait par éthique de cybersécurité afin de :      
+	•	Ne pas diffuser d’adresses sensibles         
+	•	Ne pas faciliter l’accès direct aux services analysés         
 	•	Respecter une démarche responsable et professionnelle   
+	
 
 ⸻   
 
-📈 Axes d’amélioration futurs   
+📈 Axes d’amélioration futurs       
 
-Ce projet pourrait être approfondi par :   
-	•	Analyse du trafic réseau (Wireshark)   
-	•	Étude détaillée des circuits Tor   
-	•	Inspection des certificats   
-	•	Modélisation de menace complète   
-	•	Analyse des logs   
-	•	Étude du fingerprinting navigateur   
-	•	Mini audit technique du service   
+Ce projet pourrait être approfondi par :      
+	•	Analyse du trafic réseau (Wireshark)      
+	•	Étude détaillée des circuits Tor      
+	•	Inspection des certificats      
+	•	Modélisation de menace complète      
+	•	Analyse des logs      
+	•	Étude du fingerprinting navigateur      
+	•	Mini audit technique du service      
 
-Ces éléments n’étaient pas l’objectif initial de l’exercice.   
+Ces éléments n’étaient pas l’objectif initial de l’exercice.
+
 
 ⸻   
 
-🎓 Niveau estimé du projet   
+🎓 Niveau estimé du projet     
 
-Niveau : Intermédiaire   
-(BTS SIO / Licence 2 / Début Bachelor Cybersécurité)   
+Niveau : Intermédiaire      
+(BTS SIO / Licence 2 / Début Bachelor Cybersécurité)      
 
-Ce projet démontre :  
-	•	Compréhension du réseau Tor  
-	•	Mise en place d’un environnement isolé  
-	•	Analyse de risque structurée  
-	•	Démarche éthique et responsable   
+Ce projet démontre :     
+	•	Compréhension du réseau Tor     
+	•	Mise en place d’un environnement isolé    
+	•	Analyse de risque structurée    
+	•	Démarche éthique et responsable  
+	
 
-⸻  
+⸻ 
+
 
 ⚖️ Disclaimer  
 
