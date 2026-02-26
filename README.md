@@ -1,4 +1,4 @@
-# 🌐 Dark Web – Analyse académique d’un service .onion via Tor
+# 🌐 Dark Web - Analyse académique d’un service .onion via Tor
 
 ## 📌 Description du projet
 
@@ -51,6 +51,17 @@ Cette configuration limite les risques en cas de contenu malveillant.
 ## ⚙️ Installation de Tor Browser
 
 ### Méthode manuelle
+
+<pre>
+```bash
+wget https://www.torproject.org/dist/torbrowser/linux/tor-browser-linux64-*.tar.xz
+tar -xf tor-browser-linux64-*.tar.xz
+cd tor-browser
+./start-tor-browser.desktop
+```
+</pre>
+
+
 
 wget https://www.torproject.org/dist/torbrowser/linux/tor-browser-linux64-*.tar.xz
 tar -xf tor-browser-linux64-*.tar.xz
