@@ -88,35 +88,35 @@ s’effectue sur le réseau Tor, C'est-à-dire sur le Dark Web.
 - VPN Proton activé avant connexion à Tor
 - Aucune activité parallèle durant l’analyse
 
-┌──────────────────────────────┐
-│ 🖥️ MACHINE HÔTE (Windows)   │
-│                              │
-│ 🟢 VPN Proton actif         │
-│ 🟢 Aucune donnée sensible   │
-│ 🟢 Pas d’activité parallèle  │
-└───────────────┬──────────────┘
-                │
-                ▼
-┌──────────────────────────────┐
-│ 💻 MACHINE VIRTUELLE        │
-│ (VirtualBox – Debian 13)    │
-│                              │
-│ 🟢 Réseau NAT               │
-│ 🟢 Pas de dossier partagé   │
-│ 🟢 Presse-papiers désactivé │
-│ 🟢 Glisser-déposer OFF      │
-│ 🟢 Aucun USB monté          │
-│ 🟢 Snapshot avant navigation│
-│ 🟢 Aucune donnée perso      │
-└───────────────┬──────────────┘
-                │
-                ▼
-        🌐 Réseau Tor
-                │
-                ▼
-           🧅 Service .onion
+┌──────────────────────────────┐  
+│ 🖥️ MACHINE HÔTE (Windows)   │    
+│                              │  
+│ 🟢 VPN Proton actif         │  
+│ 🟢 Aucune donnée sensible   │  
+│ 🟢 Pas d’activité parallèle  │  
+└───────────────┬──────────────┘    
+                │  
+                ▼  
+┌──────────────────────────────┐  
+│ 💻 MACHINE VIRTUELLE        │  
+│ (VirtualBox – Debian 13)    │  
+│                              │  
+│ 🟢 Réseau NAT               │  
+│ 🟢 Pas de dossier partagé   │  
+│ 🟢 Presse-papiers désactivé │  
+│ 🟢 Glisser-déposer OFF      │  
+│ 🟢 Aucun USB monté          │  
+│ 🟢 Snapshot avant navigation│  
+│ 🟢 Aucune donnée perso      │  
+└───────────────┬──────────────┘  
+                │  
+                ▼  
+        🌐 Réseau Tor  
+                │  
+                ▼  
+           🧅 Service .onion  
 
-### Machine virtuelle (VirtualBox - Debian 13)
+### Machine virtuelle (VirtualBox - Debian 13)   
 
 - Mode réseau : NAT (pas de Bridge)
 - Aucun dossier partagé entre hôte et VM
