@@ -106,6 +106,54 @@ Cette configuration limite les risques en cas de contenu malveillant.
 
 ---
 
+<h2 align="center">🔐 Architecture de sécurisation</h2>
+
+<table align="center">
+<tr>
+<th style="background-color:#2E8B57;color:white;">🖥️ Machine Hôte (Windows)</th>
+<th style="background-color:#1E90FF;color:white;">💻 Machine Virtuelle (Debian 13)</th>
+<th style="background-color:#6A5ACD;color:white;">🌐 Réseau</th>
+<th style="background-color:#8B4513;color:white;">🧅 Service</th>
+</tr>
+
+<tr>
+<td>
+
+🟢 VPN Proton actif  
+<br>🟢 Aucune donnée sensible  
+<br>🟢 Pas d’activité parallèle  
+
+</td>
+
+<td>
+
+🟢 Réseau NAT  
+<br>🟢 Aucun dossier partagé  
+<br>🟢 Presse-papiers désactivé  
+<br>🟢 Glisser-déposer OFF  
+<br>🟢 Aucun USB monté  
+<br>🟢 Snapshot avant navigation  
+<br>🟢 Aucune donnée personnelle  
+
+</td>
+
+<td align="center">
+
+Tor Network  
+
+</td>
+
+<td align="center">
+
+Service .onion  
+
+</td>
+
+</tr>
+</table>
+
+
+
 ## ⚙️ Installation de Tor Browser
 
 ### Méthode manuelle
