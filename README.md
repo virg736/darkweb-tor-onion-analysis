@@ -215,74 +215,39 @@ Il ne s’agit pas d’une action intrusive, mais d’une consultation passive d
 </p>
 
 
-⸻   
-📸 Les captures documentent
+⸻
 
-🟢 Installation de Tor
-🟢 Paramétrage du niveau de sécurité
-🟢 Visualisation du circuit Tor
-🟢 Accès au moteur de recherche .onion
-🟢 Interface du service analysé
-🟢 Analyse du formulaire d’inscription
+📸 Les captures documentent   
+
+🟢 Installation de Tor   
+🟢 Paramétrage du niveau de sécurité   
+🟢 Visualisation du circuit Tor   
+🟢 Accès au moteur de recherche .onion   
+🟢 Interface du service analysé   
+🟢 Analyse du formulaire d’inscription   
+
+⸻  
+
+🔒 Note éthique  
+
+Les adresses .onion ont été volontairement masquées dans les captures d’écran.   
+
+Ce choix repose sur une démarche éthique en cybersécurité visant à :   
+
+🟢 Ne pas diffuser d’adresses sensibles   
+🟢 Ne pas faciliter l’accès direct aux services analysés   
+🟢 Respecter une démarche responsable et professionnelle   
 
 ⸻
 
-🔒 Note éthique
+📈 Axes d’amélioration futurs   
 
-Les adresses .onion ont été volontairement masquées dans les captures d’écran.
+Ce projet pourrait être approfondi par :   
 
-Ce choix repose sur une démarche éthique en cybersécurité visant à :
-
-🟢 Ne pas diffuser d’adresses sensibles
-🟢 Ne pas faciliter l’accès direct aux services analysés
-🟢 Respecter une démarche responsable et professionnelle
-
-⸻
-
-📈 Axes d’amélioration futurs
-
-Ce projet pourrait être approfondi par :
-
-🟢 Une analyse plus détaillée du trafic réseau
-🟢 Une étude comparative de plusieurs services .onion
-🟢 Une inspection approfondie des certificats et mécanismes de sécurité
-🟢 Une analyse des configurations avancées du navigateur Tor
-
-
-Les captures documentent :
-	•	Installation de Tor
-	•	Paramétrage du niveau de sécurité
-	•	Visualisation du circuit Tor
-	•	Accès au moteur de recherche .onion
-	•	Interface du service analysé
-	•	Analyse du formulaire d’inscription     
-
-⸻
-
-🔒 Note éthique   
-
-Les adresses .onion ont été volontairement masquées dans les captures d’écran.      
-
-Ce choix a été fait par éthique de cybersécurité afin de :      
-	•	Ne pas diffuser d’adresses sensibles         
-	•	Ne pas faciliter l’accès direct aux services analysés         
-	•	Respecter une démarche responsable et professionnelle   
-	
-
-⸻   
-
-📈 Axes d’amélioration futurs       
-
-Ce projet pourrait être approfondi par :      
-	•	Analyse du trafic réseau (Wireshark)      
-	•	Étude détaillée des circuits Tor      
-	•	Inspection des certificats      
-	•	Modélisation de menace complète      
-	•	Analyse des logs      
-	•	Étude du fingerprinting navigateur      
-	•	Mini audit technique du service      
-
-Ces éléments n’étaient pas l’objectif initial de l’exercice.
+Une analyse plus détaillée du trafic réseau  
+Une étude comparative de plusieurs services .onion   
+Une inspection approfondie des certificats et mécanismes de sécurité  
+Une analyse des configurations avancées du navigateur Tor  
 
 
 ⸻   
