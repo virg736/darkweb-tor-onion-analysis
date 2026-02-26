@@ -256,8 +256,8 @@ L’accès à un lien `.onion` inconnu peut présenter plusieurs risques :
 - De ne divulguer aucune donnée personnelle
   
 
-Cette analyse a été réalisée dans un cadre académique et observationnel uniquement.
-Il ne s’agit pas d’une action intrusive, mais d’une consultation passive dans un cadre académique.  
+Cette analyse a été réalisée dans un environnement contrôlé et observationnel.
+Il ne s’agit pas d’une action intrusive, mais d’une consultation passive et encadrée.  
 
 
 <p align="center">
