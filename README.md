@@ -82,30 +82,6 @@ s’effectue sur le réseau Tor, C'est-à-dire sur le Dark Web.
 
 ## Sécurisation de l’environnement
 
-### Machine hôte
-
-- Windows sans données sensibles
-- VPN Proton activé avant connexion à Tor
-- Aucune activité parallèle durant l’analyse
-
-
-
-               
-
-### Machine virtuelle (VirtualBox - Debian 13)   
-
-- Mode réseau : NAT (pas de Bridge)
-- Aucun dossier partagé entre hôte et VM
-- Presse-papiers bidirectionnel désactivé
-- Glisser-déposer désactivé
-- Aucun périphérique USB monté
-- Snapshot réalisé avant la navigation
-- Absence de données personnelles dans la VM
-
-Cette configuration limite les risques en cas de contenu malveillant.
-
----
-
 <h2 align="center">🔐 Architecture de sécurisation</h2>
 
 <table align="center">
