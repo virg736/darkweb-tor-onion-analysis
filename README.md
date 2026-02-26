@@ -176,6 +176,36 @@ Aucune interaction sensible n’a été réalisée.
 
 ⸻  
 
+### Exemple d’accès à un lien .onion
+
+La capture ci-dessous illustre l’accès à un service via une adresse en `.onion`, accessible uniquement à travers le réseau Tor.
+
+Les services `.onion` ne sont pas indexés par les moteurs de recherche classiques et nécessitent l’utilisation de Tor Browser.
+
+### Risques potentiels associés
+
+L’accès à un lien `.onion` inconnu peut présenter plusieurs risques :
+
+- Absence d’identification claire de l’opérateur du service
+- Présence possible de contenus malveillants
+- Risques de phishing ou de collecte de données
+- Téléchargement potentiel de fichiers infectés
+- Exposition à des contenus illicites
+
+Il est donc recommandé :
+
+- D’utiliser un environnement isolé (machine virtuelle)
+- De ne pas interagir avec des formulaires sensibles
+- De ne télécharger aucun fichier
+- De ne divulguer aucune donnée personnelle
+
+Cette analyse a été réalisée dans un cadre académique et observationnel uniquement.
+
+<p align="center">
+  <img src="Capture_ecran_exemple_lien_onion_darkweb.PNG" width="800">
+</p>
+
+
  Analyse technique   
 
 Le processus correspond à une navigation anonyme standard via Tor :   
