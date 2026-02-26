@@ -6,17 +6,12 @@
 </p>
 
 <p align="center">
-  © 2026 Virginie Lechene – Tous droits réservés<br>
+  © 2026 Virginie Lechene - Tous droits réservés<br>
   Reproduction interdite sans autorisation préalable.<br>
   Usage pédagogique uniquement.
 </p>
 
-<p align="right">
-  © 2026 Virginie Lechene – Tous droits réservés<br>
-  Reproduction interdite sans autorisation préalable.<br>
-  Usage pédagogique uniquement.
-</p>
-
+---
 
 ## 📌 Description du projet
 
