@@ -117,6 +117,24 @@ sudo apt install torbrowser-launcher
 
 ---
 
+## Fonctionnement du circuit Tor
+
+Lorsque l’utilisateur se connecte à un service .onion,
+le trafic est routé à travers plusieurs relais (nœuds)
+afin de préserver l’anonymat.
+
+Le circuit Tor est composé généralement de :
+- Un nœud d’entrée (Guard Node)
+- Un relais intermédiaire
+- Un nœud de sortie (dans le cas d’un site classique)
+
+
+<p align="center">
+  <img src="Capture-écran_circuit_tor.PNG" width="700">
+</p>
+
+
+
 🌍 Accès aux services .onion   
 
 1️⃣ Connexion via Tor Browser   
