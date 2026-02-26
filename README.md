@@ -164,6 +164,11 @@ Caractéristiques observées :
 
 Aucune interaction sensible n’a été réalisée.   
 
+<p align="center">
+  <img src="Capture_service_email_temporaire_darkweb_tor.PNG" width="800">
+</p>
+
+
 ⸻  
 
  Analyse technique   
