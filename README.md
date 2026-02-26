@@ -108,6 +108,7 @@ cd tor-browser
   <img src="Capture_ecran_téléchargement_navigateur_tor.PNG" width="700">
 </p>
 
+
 ----
 
 ## Fonctionnement du circuit Tor
@@ -127,7 +128,7 @@ Le circuit Tor est composé généralement de :
 
 ---
 
-🌍 Accès aux services .onion   
+##🌍 Accès aux services .onion   
 
 1️⃣ Connexion via Tor Browser   
 	•	Connexion au réseau Tor   
