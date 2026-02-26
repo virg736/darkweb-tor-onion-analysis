@@ -1,6 +1,17 @@
 
 <h1 align="center">🌐 Dark Web - Analyse académique d'un service .onion via Tor</h1>
 
+<p align="center">
+  <img src="project_dark_web.jpg" alt="Dark Web Cover" width="700">
+</p>
+
+<p align="right">
+  © 2026 Virginie Lechene – Tous droits réservés<br>
+  Reproduction interdite sans autorisation préalable.<br>
+  Usage pédagogique uniquement.
+</p>
+
+
 ## 📌 Description du projet
 
 Ce projet présente une analyse académique d’un service accessible via le réseau Tor (.onion), réalisée dans un environnement virtualisé et isolé.
