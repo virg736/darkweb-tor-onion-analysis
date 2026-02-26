@@ -49,6 +49,23 @@ mais de l’usage qui en est fait.
 
 ---
 
+## Accès au Dark Web
+
+L’accès au dark web nécessite l’utilisation d’un réseau anonymisant,
+comme le réseau Tor.
+
+Les services hébergés sur le réseau Tor utilisent des adresses spécifiques
+se terminant par l’extension ".onion".
+
+Ces adresses ne sont pas accessibles depuis un navigateur classique
+(Chrome, Edge, Firefox standard) et nécessitent l’utilisation
+du navigateur Tor pour être consultées.
+
+Ainsi, l’accès aux services en .onion confirme que la navigation
+s’effectue sur le réseau Tor (dark web).
+
+----
+
 ## Sécurisation de l’environnement
 
 ### Machine hôte
