@@ -27,6 +27,28 @@ Aucun téléchargement n’a été effectué.
 
 ---
 
+## Clarification : Dark Web et légalité
+
+Le dark web ne désigne pas une activité illégale en soi.
+
+Il s'agit d'un ensemble de services accessibles uniquement via des réseaux anonymisants
+comme Tor, utilisant des adresses en .onion.
+
+Le dark web peut contenir :
+
+- Des services légitimes (journalisme, lanceurs d’alerte, protection de la vie privée)
+- Des outils de sécurité et d’anonymisation
+- Des forums communautaires
+- Des plateformes de communication protégées
+
+Cependant, comme tout espace numérique anonyme, il peut également
+être utilisé à des fins illégales.
+
+Ainsi, l’illégalité ne provient pas du réseau Tor ou du dark web en lui-même,
+mais de l’usage qui en est fait.
+
+---
+
 ## Sécurisation de l’environnement
 
 ### Machine hôte
