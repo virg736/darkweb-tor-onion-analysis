@@ -143,8 +143,7 @@ Le circuit Tor est composé généralement de :
 
 ![DuckDuckGo Tor](Capture_ecran_tor_duckduckgo_accueil.PNG)
 
-
-⸻   
+----
 
  ## 🟢Service analysé   
 
