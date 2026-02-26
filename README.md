@@ -88,7 +88,7 @@ s’effectue sur le réseau Tor, C'est-à-dire sur le Dark Web.
 - VPN Proton activé avant connexion à Tor
 - Aucune activité parallèle durant l’analyse
 
-### Machine virtuelle (VirtualBox – Debian)
+### Machine virtuelle (VirtualBox - Debian 13)
 
 - Mode réseau : NAT (pas de Bridge)
 - Aucun dossier partagé entre hôte et VM
