@@ -293,6 +293,17 @@ Ce projet pourrait être approfondi par :
 
 ⸻   
 
+🎓 Objectifs pédagogiques
+
+Ce projet démontre :
+
+- Compréhension du réseau Tor  
+- Mise en place d’un environnement isolé  
+- Analyse de risque structurée  
+- Démarche éthique et responsable
+
+
+
 🎓 Niveau estimé du projet     
 
 Niveau : Intermédiaire      
