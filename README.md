@@ -1,7 +1,7 @@
 ![Academic](https://img.shields.io/badge/Academic-Yes-blue)
 ![Tor](https://img.shields.io/badge/Tor-Network-purple)
 ![VM](https://img.shields.io/badge/VM-Isolated-green)
-<h1 align="center">🌐 Dark Web - Analyse académique d'un service .onion via Tor</h1>
+<h1 align="center">🌐 Dark Web - Analyse de sécurité d'un service .onion via Tor</h1>
 
 <p align="center">
   <img src="project_dark_web.jpg" alt="Dark Web Cover" width="700">
