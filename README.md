@@ -128,6 +128,10 @@ Le circuit Tor est composé généralement de :
 - Un relais intermédiaire
 - Un nœud de sortie (dans le cas d’un site classique)
 
+<p align="center">
+  <img src="Capture-écran_circuit_tor.PNG" width="800">
+</p>
+
 
 🌍 Accès aux services .onion   
 
