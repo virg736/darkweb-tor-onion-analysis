@@ -62,8 +62,3 @@ cd tor-browser
 </pre>
 
 
-
-wget https://www.torproject.org/dist/torbrowser/linux/tor-browser-linux64-*.tar.xz
-tar -xf tor-browser-linux64-*.tar.xz
-cd tor-browser
-./start-tor-browser.desktop
