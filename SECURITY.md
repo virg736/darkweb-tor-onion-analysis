@@ -1,5 +1,3 @@
-# Security Policy
-
 # Politique de sécurité
 
 ## Contexte
