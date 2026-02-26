@@ -100,21 +100,6 @@ cd tor-browser
 </pre>
 
 
-<p align="center">
-  <img src="images/capture_telechargement_navigateur_tor.png" width="700">
-</p>
-
-
-### Téléchargement du navigateur Tor
-
-Le téléchargement a été effectué depuis le site officiel du Tor Project.
-
-<p align="center">
-  <img src="images/capture_telechargement_navigateur_tor.png" width="700">
-</p>
-
-Cette étape garantit l’authenticité du logiciel et réduit le risque
-d’installation d’une version compromise.
 
 ----
 
