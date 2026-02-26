@@ -128,10 +128,7 @@ Le circuit Tor est composé généralement de :
 - Un relais intermédiaire
 - Un nœud de sortie (dans le cas d’un site classique)
 
-<p align="center">
-  <img src="Capture-écran_circuit_tor.PNG" width="800">
-</p>
-
+---
 
 🌍 Accès aux services .onion   
 
@@ -174,6 +171,18 @@ Aucune interaction sensible n’a été réalisée.
   <img src="Capture_analyse_formulaire_incription_darkweb_tor.PNG" width="800">
 </p>
 
+⚠️ Analyse de risque   
+
+Risques identifiés :   
+	•	Collecte potentielle de métadonnées    
+	•	Exploitation JavaScript   
+	•	Faux miroir .onion   
+	•	Tracking de session   
+	•	Téléchargement de fichiers malveillants   
+
+Décision : arrêt volontaire avant toute interaction ou saisie de données.
+
+
 ⸻  
 
 ### Exemple d’accès à un lien .onion
@@ -201,38 +210,10 @@ Il est donc recommandé :
 
 Cette analyse a été réalisée dans un cadre académique et observationnel uniquement.
 
-<p align="center">
-  <img src="Capture_ecran_exemple_lien_onion_darkweb.PNG" width="800">
-</p>
-
-
-![Exemple lien onion](./Capture_ecran_exemple_lien_onion_darkweb.PNG)
-
- Analyse technique   
-
-Le processus correspond à une navigation anonyme standard via Tor :   
-	•	Routage via plusieurs nœuds   
-	•	Chiffrement multi-couches   
-	•	Accès à un service caché (.onion)   
-
 Il ne s’agit pas d’une action intrusive, mais d’une consultation passive dans un cadre académique.    
 
 ⸻   
 
-⚠️ Analyse de risque   
-
-Risques identifiés :   
-	•	Collecte potentielle de métadonnées    
-	•	Exploitation JavaScript   
-	•	Faux miroir .onion   
-	•	Tracking de session   
-	•	Téléchargement de fichiers malveillants   
-
-Décision : arrêt volontaire avant toute interaction ou saisie de données.
-
-⸻
-
-📷 Captures d’écran
 
 Les captures documentent :
 	•	Installation de Tor
