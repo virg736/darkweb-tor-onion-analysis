@@ -78,6 +78,8 @@ du navigateur Tor pour être consultées.
 Ainsi, l’accès aux services en .onion confirme que la navigation
 s’effectue sur le réseau Tor, C'est-à-dire sur le Dark Web.
 
+L’accès aux services en .onion indique l’utilisation du réseau Tor, permettant d’accéder à des services du Dark Web.
+
 ---- 
 
 
