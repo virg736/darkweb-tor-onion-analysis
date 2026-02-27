@@ -64,7 +64,7 @@ mais de l’usage qui en est fait.
 ## Accès au Dark Web
 
 L’accès au Dark Web nécessite l’utilisation d’un réseau anonymisant,
-comme le réseau Tor.
+comme le réseau tel que Tor.
 
 Les services hébergés sur le réseau Tor utilisent des adresses spécifiques
 se terminant par l’extension ".onion".
