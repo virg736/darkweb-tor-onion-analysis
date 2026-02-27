@@ -46,7 +46,8 @@ Aucun téléchargement n’a été effectué.
 Le Dark Web ne désigne pas une activité illégale en soi.
 
 Il s'agit d'un ensemble de services accessibles uniquement via des réseaux anonymisants
-comme Tor, utilisant des adresses en .onion.
+comme Tor, utilisant des adresses en .onion mais tous les services du Dark Web ne sont pas forcément en .onion
+	•	Il existe d’autres réseaux (I2P, Freenet)
 
 Le Dark Web peut contenir :
 
