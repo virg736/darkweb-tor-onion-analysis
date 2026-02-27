@@ -63,6 +63,7 @@ mais de l’usage qui en est fait.
 
 ## Accès au Dark Web
 
+L’accès au Dark Web nécessite l’utilisation d’un réseau anonymisant, tel que Tor.”
 L’accès au Dark Web nécessite l’utilisation d’un réseau anonymisant,
 comme le réseau tel que Tor.
 
