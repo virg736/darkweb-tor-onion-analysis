@@ -136,6 +136,8 @@ Service .onion
 
 ### Méthode manuelle
 
+⚠️ Toujours vérifier le hash ou la signature du fichier avant exécution.
+
 <p align="center">
   <img src="Capture_ecran-configuration-tor.PNG" width="700">
 </p>
