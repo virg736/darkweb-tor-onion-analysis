@@ -8,9 +8,7 @@
 </p>
 
 <p align="center">
-  © 2026 Virginie Lechene - Tous droits réservés<br>
-  Reproduction interdite sans autorisation préalable.<br>
-  Usage pédagogique uniquement.
+  © 2026 Virginie Lechene 
 </p>
 
 ---
@@ -318,11 +316,6 @@ Ce projet démontre :
 
 ---
 
-✍️ Auteur : *Virginie Lechene*
-
-
----
-
 ## ⚖ Disclaimer
 
 Ce projet est réalisé à des fins éducatives et d’analyse en cybersécurité uniquement.
@@ -330,6 +323,13 @@ Il ne constitue en aucun cas une incitation à l’utilisation de services illic
 L’auteure décline toute responsabilité en cas d’usage inapproprié des informations présentées.
 
 ---
+
+## 📷 Droits sur les visuels
+
+Les visuels de ce dépôt sont protégés par la licence CC BY-ND 4.0.
+Attribution obligatoire – Modification interdite.
+
+© 2026 Virginie Lechene
 
 ---
 
