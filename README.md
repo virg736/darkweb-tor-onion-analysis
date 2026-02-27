@@ -329,3 +329,14 @@ Ce projet est réalisé à des fins éducatives et d’analyse en cybersécurit�
 Il ne constitue en aucun cas une incitation à l’utilisation de services illicites.
 L’auteure décline toute responsabilité en cas d’usage inapproprié des informations présentées.
 
+---
+
+---
+
+## 👩‍💻 Author
+
+**Virginie Lechene**  
+Cybersecurity • Pentest • Linux Security  
+
+🔗 [GitHub](https://github.com/virg736)  
+🔗 [LinkedIn](https://linkedin.com/in/virginie-lechene-fr)
