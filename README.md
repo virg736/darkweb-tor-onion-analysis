@@ -79,6 +79,10 @@ L’accès aux services en .onion indique l’utilisation du réseau Tor, permet
 
 ## Sécurisation de l’environnement
 
+⚠️ **Note :**  
+L’architecture présentée vise à assurer une isolation stricte entre la machine hôte et l’environnement d’analyse.  
+L’accès aux services .onion est réalisé uniquement depuis une machine virtuelle dédiée.
+
 <h2 align="center">🔐 Architecture de sécurisation</h2>
 
 <table align="center">
