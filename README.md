@@ -44,6 +44,7 @@ Aucun téléchargement n’a été effectué.
 ## Clarification : Dark Web et légalité
 
 Le Dark Web ne désigne pas une activité illégale en soi.
+Il s’agit d’un ensemble de services accessibles via des réseaux anonymisants comme Tor, utilisant majoritairement des adresses en .onion. Toutefois, tous les services du Dark Web ne reposent pas exclusivement sur ce format. D’autres réseaux anonymes existent, tels que I2P ou Freenet.
 
 Il s'agit d'un ensemble de services accessibles uniquement via des réseaux anonymisants
 comme Tor, utilisant des adresses en .onion mais tous les services du Dark Web ne sont pas forcément en .onion
